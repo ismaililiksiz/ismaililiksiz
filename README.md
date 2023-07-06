@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile 👋 I'm İsmail İliksiz</h1>
-<h3 align="center">17 Year old passionate Front-End and Game Developer from Turkey.</h3>
+<h3 align="center">17 Year old Game Developer from Turkey.</h3>
 
 - 🎮 My projects on Itch.io: [https://drong0.itch.io](https://drong0.itch.io)
 
