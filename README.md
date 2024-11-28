@@ -1,11 +1,9 @@
-<h1 align="center">Welcome to my profile 👋 I'm İsmail İliksiz</h1>
-<h3 align="center">17 Year old Game Developer from Turkey.</h3>
+<h1 align="center">Welcome to my profile 👋</h1>
+<h3 align="center">18 year old Game Developer from Turkiye</h3>
 
 - 🎮 My projects on Itch.io: [https://drong0.itch.io](https://drong0.itch.io)
 
-- 📫 Reach me: **ismaililiksiz5760@gmail.com**
-
-- 🤖 My discord: **Drongo#1053**
+- 📫 Reach me: **ismail.iliksiz0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
