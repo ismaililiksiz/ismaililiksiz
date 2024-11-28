@@ -3,7 +3,7 @@
 
 - 🎮 My projects on Itch.io: [https://drong0.itch.io](https://drong0.itch.io)
 
-- 📫 Reach me: **ismail.iliksiz0@gmail.com**
+- 📫 Reach me: **ismail.iliksiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
